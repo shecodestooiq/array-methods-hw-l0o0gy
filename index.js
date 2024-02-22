@@ -7,7 +7,6 @@ function processAges(ages) {
   doubledAges.push(i*2);      
  } 
   console.log(doubledAges);
-
   //2-Use the forEach method to loop through the ages array and print each age to the console.
  ages.forEach(function(i) {
     console.log(i);
@@ -23,7 +22,6 @@ let ageStrings = ages.map (function(age){
 })
 console.log(ageStrings);
   //5-please make sure to name your arrays(variables) accordingly to the names in the return statement.
-
   return { doubledAges, adults, ageStrings };
 }
 processAges(ages)
