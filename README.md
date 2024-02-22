@@ -2,7 +2,7 @@
 
 Dear students,
 
-you have array of ages=[25, 18, 12, 16, 40] , you are requested the following
+you have array of ages=[25, 18, 12, 16, 40]* , you are requested the following
 
 ## Task Instructions
 
